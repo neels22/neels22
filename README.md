@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Developement Projects**
 
 - 📫 How to reach me **indraneelsarode@gmail.com**
--  my personal-<a href="http://indraneel-portfolio.netlify.app">Portfolio
+-  my personal-<a href="https://prickle-spade-df5.notion.site/Indraneel-Sarode-7c946b057a394411a2e88f7a9add2ec8">Portfolio
   </a>
 
 
