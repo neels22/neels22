@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indraneel</h1>
 <h3 align="center">CSE Student 🧑🏻‍💻 | Web Developer 🕸 | Programmer</h3>
 
-- 🌱 I’m currently learning **Data Structures and Web Development**
+- 🌱 I’m currently learning **LLM applications, Distributed Systems, Full Stack Applications**
 
 - 👯 I’m looking to collaborate on **Developement Projects**
 
