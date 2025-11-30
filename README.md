@@ -30,20 +30,6 @@
 
 ---
 
-### Featured projects
-- **Aiventory** — FastAPI + PostgreSQL backend with JWT, RBAC, and real-time analytics; CI/CD & Dockerized deployments.  
-  _Stack:_ FastAPI, PostgreSQL, Next.js, Tailwind, Docker, CI/CD
-
-- **BOOKIT** — Full-stack restaurant booking portal with role-based dashboards and real-time search/filters.  
-  _Stack:_ Next.js, React, Docker, AWS EC2, JWT, RBAC
-
-- **GetSetGO-ai** — AI-powered travel planner using agentic workflows (LangGraph) and Groq LLM, with modular microservices.  
-  _Stack:_ FastAPI, Streamlit, LangGraph, Groq LLM
-
-> 🔖 Pinned repos recommended: `Aiventory`, `BOOKIT`, `GetSetGO-ai`, plus one focused LLM/RAG sample.
-
----
-
 ### GitHub stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neels22&show_icons=true&layout=compact" alt="Top languages" />
