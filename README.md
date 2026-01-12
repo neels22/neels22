@@ -107,11 +107,13 @@ I'm a graduate student at San José State University pursuing my M.S. in Softwar
 <details open> 
   <summary><h2>📘 Featured Projects</h2></summary>
 
+
+
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/neels22/fashion-tinder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=neels22&repo=project-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="project-1"></a>
-    <a href="https://github.com/neels22/snapask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=neels22&repo=project-2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="project-2"></a>
-    <a href="https://github.com/neels22/Transitly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=neels22&repo=project-3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="project-3"></a>
+    <a href="https://github.com/neels22/fashion-tinder"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=neels22&repo=fashion-tinder&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="fashion-tinder"></a>
+    <a href="https://github.com/neels22/snapask"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=neels22&repo=snapask&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="snapask"></a>
+    <a href="https://github.com/neels22/Transitly"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=neels22&repo=Transitly&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Transitly"></a>
   </p>
 
   <a href="https://github.com/neels22?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
