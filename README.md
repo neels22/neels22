@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Optional header capsule (clean banner) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F85D7F&height=120&section=header&text=Indraneel%20Sarode&fontSize=38&fontAlignY=35&desc=M.S.%20Software%20Engineering%20%40%20SJSU%20%7C%20Scalable%20Systems%20%26%20LLM%20Apps&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=F85D7F&amp;height=120&amp;section=header&amp;text=Indraneel%20Sarode&amp;fontSize=38&amp;fontAlignY=35&amp;desc=M.S.%20Software%20Engineering%20%40%20SJSU%20%7C%20Scalable%20Systems%20%26%20LLM%20Apps&amp;descAlignY=60&amp;v=2" />
 
 <!-- Typing line -->
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;LLM+Application+Builder;Distributed+Systems+Engineer;Always+Learning+%26+Building&font=Fira%20Code&center=true&width=720&height=45&color=F85D7F&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
